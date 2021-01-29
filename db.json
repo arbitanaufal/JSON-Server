@@ -1,15 +1,25 @@
 {
-  "posts": [
+  "AlatMusik": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "Adhimas"
+      "title": "gitar",
+      "author": "budi"
+    },
+    {
+      "id": 2,
+      "title": "piano",
+      "author": "duloh"
+    },
+    {
+      "id": 3,
+      "title": "bass",
+      "author": "joko"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "Ini Komen",
       "postId": 1
     }
   ],
